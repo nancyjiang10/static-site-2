@@ -10,9 +10,9 @@ This is your page!
   import RelatedLinks from '$lib/components/RelatedLinks.svelte';
 
   // Article metadata
-  let headline = 'Become a force for good. Join our next class.';
-  let byline = 'NYCity News Service';
-  let pubDate = '2026-01-31';
+  let headline = 'Bad Bunny turns Super Bowl halftime into Puerto Rican love letter with Lady Gaga surprise';
+  let byline = 'Angelica Medina';
+  let pubDate = '2026-02-09';
 
   // Related stories
   const relatedStories = [
@@ -49,41 +49,53 @@ This is your page!
   <!-- Article Body: The main story text with proper typography -->
   <ArticleBody>
     <p>
-      At the Craig Newmark Graduate School of Journalism at the City University of New York, change is in our DNA. That comes of being born in 2006, as the digital revolution was transforming our profession in ways none of us could have imagined.
+      SANTA CLARA, California, Feb 8 (Reuters) - (This Feb 8 story has been corrected to fix the name of the song to 'Die With A Smile,' not 'If Tomorrow Never Comes,' in the third bullet point)
     </p>
 
     <p>
-      We fashioned a school to teach the latest storytelling, entrepreneurial, and technological skills alongside reporting, writing, and ethics. Beyond that, we’ve crafted a culture that spurns complacency, that isn’t afraid to pivot before the ground under us shifts.
+Bad Bunny transformed Levi's Stadium into a vibrant homage to Puerto Rico during Sunday's Super Bowl halftime show, delivering a high-energy journey through the island's culture complete with a surprise appearance by Lady Gaga and a tribute from reggaeton pioneer Daddy Yankee.
     </p>
 
     <p>
-      Our mission is to serve the public interest – by training new journalists from varied economic, racial, and cultural backgrounds who will bring much-needed diversity to newsrooms, by helping mid-career journalists retool their skills, and by partnering with other media organizations to find new paths to excellence.
+The halftime spectacular marked a historic moment for Latin music on America's biggest stage, following last year's record-breaking Kendrick Lamar performance that drew more than 130 million viewers, with Bad Bunny using the platform to celebrate his heritage while cementing reggaeton's place in mainstream American culture.    </p>
+
+    <p>
+The choice of Bad Bunny, whose full name is Benito Antonio Martinez Ocasio, to feature in the halftime show drew a rebuke from President Donald Trump and other conservatives over the entertainer's outspoken criticism of U.S. immigration policy.
     </p>
 
     <p>
-      Our low tuition rates, along with the added backing of private donors, allow candidates for our master’s degrees in journalism and engagement journalism to receive a world-class education at an affordable price. We also offer a unique bilingual master’s in journalism for students fluent in English and Spanish.
+On Sunday, Trump said on social media that the Super Bowl halftime show fronted by the singer was "absolutely terrible."
     </p>
 
     <p>
-      Our three media centers provide research, training, thought leadership, industry meet-ups, and financial support for quality journalistic work.
+Clad in a white suit, the 31-year-old superstar opened with "Tití Me Preguntó" while walking through carefully crafted vignettes of Puerto Rican life - farmers in traditional pava hats, domino players, and boxers.
     </p>
 
     <p>
-      We also offer a robust professional education program through regular evening and weekend workshops. And we support in-depth reporting projects of professional journalists through fellowship grants.
+The performance hit its stride at a secondary stage dubbed "La Casita" (the little house), where he sang "Yo Perreo Sola," "Safaera" and "Party" as celebrities including Pedro Pascal, Karol G, Cardi B and Jessica Alba were spotted dancing in the crowd.
     </p>
 
     <p>
-      Classes are led by accomplished full-time faculty and adjuncts, who tap their networks to help students and graduates find internships, freelance opportunities and — the ultimate prize — jobs.
+In one of the show's most theatrical moments, Bad Bunny crashed through the ceiling of "La Casita" while performing "Voy a Llevarte Pa' PR," then moved to a white truck where dancers grooved to a medley honoring reggaeton's roots - Daddy Yankee's "Gasolina," Don Omar's "Dale Don Dale" and his own hit "EoO."
     </p>
 
     <p>
-      At a time when our profession is reeling from financial pressures and lack of trust, the Newmark Graduate School of Journalism is committed to producing the next generation of skilled, ethically minded, and diverse journalists.
+"If I'm here at the Super Bowl 60 it is because I've never stopped believing in myself," he declared as violins swelled into "Monaco."
     </p>
+    <p>A staged wedding featuring the iconic La Rana Concho that was shown on the stadium screens set the scene for Lady Gaga's surprise entrance, with the pop superstar singing a salsa version of "Die With A Smile" before dancing with him "BAILE INoLVIDABLE".
+</p>
+<p>He then transitioned to "NUEVAYol" as a child and his family were shown watching the Grammy Awards ceremony at which he won Album of the Year - the first time the award was given to a Spanish-language album.
+</p>
+<p>Ricky Martin emerged for "LO QUE LE PASÓ A HAWAii" as Bad Bunny hoisted the Puerto Rican flag and performed "El Apagón," with the stadium erupting in light before he delivered "CAFé CON RON" and yelled, "God bless America!" as he named all the countries on the continent while a parade of flags was held.
+</p>
+<p> "The only thing more powerful than hate is love," was shown in the stadium, as he told the audience closing with "DtMF," the title track from his Grammy-winning album "Debí Tirar Más Fotos."
+</p> 
+<p> The Seattle Seahawks beat the New England Patriots 29-13.
 
-    <p>
-      We invite you to be part of our world.
-    </p>
-  </ArticleBody>
+</p>
+<p> Reporting by Angelica Medina in Santa Clara; Editing by Peter Rutherford and Thomas Derpinghaus</p>
+
+</ArticleBody>
 
   <!-- Related Stories: Links to other articles -->
   <RelatedLinks
